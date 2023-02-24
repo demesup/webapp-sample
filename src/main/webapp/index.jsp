@@ -39,7 +39,7 @@
 <body>
 <h1>Welcome</h1>
 
-<a href="/picture" target="_blank">
+<a href="/picture">
     <span>
         <img src="https://media0.giphy.com/media/StKiS6x698JAl9d6cx/200w.gif?cid=6c09b952bpkx6gac0d5uhuzcm9bp0bsvw6btsjnc7ptvqe7s&rid=200w.gif&ct=g"
              height="250px" width="250px" alt="Here should have been a cool gif">
@@ -47,19 +47,11 @@
     </span>
 </a>
 
-<a href="/activity" target="_blank">
+<a href="/activity">
     <span>
-        <img src="https://i.gifer.com/origin/b8/b842107e63c67d5674d17e0f576274fa.gif"
+        <img src="https://steamuserimages-a.akamaihd.net/ugc/921418643372589561/26D81F5F6D33565C54C11A519DD7F67B4EBC881E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
              height="250px" width="250px" alt="Here should have been a cool gif">
-        <p>Click to see activity table</p>
-    </span>
-</a>
-
-<a href="/add-activity.jsp" target="_blank">
-    <span>
-        <img src="https://thumbs.gfycat.com/BeneficialCleanIchidna-size_restricted.gif"
-             height="250px" width="250px" alt="Here should have been a cool gif">
-        <p>Click to add activity</p>
+        <p>Click to see activity table/add activity</p>
     </span>
 </a>
 </body>
