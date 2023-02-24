@@ -1,13 +1,15 @@
-package repository;
+package demesup.repository;
 
-import model.Activity;
+import demesup.HibernateUtil;
+import demesup.model.Activity;
 import org.hibernate.Session;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static servlet.Util.session;
+import static demesup.HibernateUtil.session;
+
 
 public class ActivityRepository {
     public  void save(Activity activity) {

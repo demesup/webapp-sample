@@ -1,6 +1,6 @@
 <%@ page import="java.sql.*" %>
-<%@ page import="model.Activity" %>
-<%@ page import="servlet.ActivityServlet" %>
+<%@ page import="demesup.model.Activity" %>
+<%@ page import="demesup.servlet.ActivityServlet" %>
 <%@ page contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8" %>
 <!DOCTYPE html>

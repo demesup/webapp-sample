@@ -1,11 +1,11 @@
-package servlet;
+package demesup.servlet;
 
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import model.Activity;
-import repository.ActivityRepository;
+import demesup.model.Activity;
+import demesup.repository.ActivityRepository;
 
 import java.io.IOException;
 

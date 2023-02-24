@@ -1,4 +1,4 @@
-package model;
+package demesup.model;
 
 import jakarta.persistence.*;
 import jakarta.servlet.http.HttpServletRequest;

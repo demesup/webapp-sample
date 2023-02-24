@@ -1,10 +1,10 @@
-package servlet;
+package demesup;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class Util {
+public class HibernateUtil {
     private static final ThreadLocal<Session> threadLocal = new ThreadLocal<>();
 
     private static final SessionFactory sessionFactory;
